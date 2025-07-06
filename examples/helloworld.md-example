@@ -7,7 +7,7 @@ author: B
                            This is centered
 
 Rename this file to article.md and start:
-docker run --rm -p8080:80 -v $(pwd):/src -it phrackzine/mdbuilder
+docker run --rm -p8080:80 -v"$(pwd):/src" -it phrackzine/mdbuilder
 
 --[ Phrack Hello World
 
