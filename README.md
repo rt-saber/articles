@@ -5,7 +5,9 @@ This repository contains PHRACK articles as TXT and as Markdown. Changes to thes
 Anyone, but mostly authors, are encouraged to send PullRequests to fix or update an article.
 
 Phrack Articles support Markdown. Examples:
-* <https://staging.phrack.org/71/8_md.html>
+* <https://staging.phrack.org/issues/71/6_md>
+* <https://staging.phrack.org/issues/71/7_md>
+* <https://staging.phrack.org/issues/71/8_md>
 
 Use these steps to add Markdown-beauty to an article:
 
