@@ -11,7 +11,7 @@ Examples PHRACK articles using MarkDown:
 
 How to add Markdown-beauty to an article:
 
-1. Change to the directory containing the ascii articles: `cd issues/71/`
+1. Change to the directory containing the ascii articles: `cd issues/<ISSUE>/`
 1. Example: `cp 9.txt 9.md`
 2. Add a `<PRE>` a the beginning (*See [helloworld.md](/examples/)*).
 1. Start `docker run --rm -p8080:80 -v"$(pwd):/src" -it phrackzine/mdbuilder`
@@ -29,4 +29,15 @@ Open your favorite editor and add Markdown tags to your `9.md`.
 * Don't forget to add `<PRE>` after you are done using Markdown syntax.
 * All available Markdowns: [https://daringfireball.net/projects/markdown/syntax](https://daringfireball.net/projects/markdown/syntax)
 * All available Syntax Highlights [https://pygments.org/languages/](https://pygments.org/languages/).
+
+### Misc Tips
+
+1. Article artifacts like source go into `/dl/<ISSUE>/<N>/`.
+1. PDF files of articles go into `/dl/<ISSUE>/<descriptive-name>.pdf`.
+
+May need to reduce size of PDF:
+```console
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf 
+```
+
 
