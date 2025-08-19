@@ -12,7 +12,6 @@ Examples PHRACK articles using MarkDown:
 How to add Markdown-beauty to an article:
 
 1. Change to the directory containing the ascii articles: `cd issues/<ISSUE>/`
-1. Example: `cp 9.txt 9.md`
 2. Add a `<PRE>` a the beginning (*See [helloworld.md](/examples/)*).
 1. Start `docker run --rm -p8080:80 -v"$(pwd):/src" -it phrackzine/mdbuilder`
 1. View the rendered article at [http://localhost:8080](http://localhost:8080).
