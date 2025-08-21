@@ -14,6 +14,7 @@ How to add Markdown-beauty to an article:
 1. Change to the directory containing the ascii articles: `cd issues/<ISSUE>/`
 2. Add a `<PRE>` a the beginning (*See [helloworld.md](/examples/)*).
 1. Start `docker run --rm -p8080:80 -v"$(pwd):/src" -it phrackzine/mdbuilder`
+   - If your system uses SELinux, you may need to run `chcon -R -t svirt_sandbox_file_t .` first.
 1. View the rendered article at [http://localhost:8080](http://localhost:8080).
 1. Add Markdown tags, especially syntax highlights, to make the article look more pretty.
 1. Create a PR at [phrackzine/articles](https://github.com/phrackzine/articles) for the Markdown article.

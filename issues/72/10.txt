@@ -1,6 +1,6 @@
 ---
 title: Popping an alert from a sandboxed WebAssembly module
-author: th0mas.nl
+author: Thomas Rinsma
 ---
 |=-----------------------------------------------------------------------=|
 |=------=[ Popping an alert from a sandboxed WebAssembly module ]=-------=|
