@@ -286,7 +286,9 @@ internal government portal. KIM seems to have access to this network.
   this to be in preparation for a future phishing attack.
 
 - There is a cert and private key for rc.kt.co.kr, South Korea
-  Telecom's Remote Control Service.
+  Telecom's Remote Control Service. It runs remote support backend from
+  https://www.rsupport.com. Kim may have access to any company that Korea
+  Telecom was providing remote support for.
 
 - Lots of passwords in mnt/hgfs/Desktop/111/account/account.txt from "LG
   Uplus" (LGU), a South Korean mobile operator. The favicon-search indicates
