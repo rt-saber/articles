@@ -9,6 +9,21 @@ author: Saber, cyb0rg
 |=-----------------------=[ saber_res@riseup.net ]=-----------------------=|
 |=-----------------=[ 5bc524352881851934d4a88eb8c1682c ]=-----------------=|
 
+Note by PHRACK STAFF:
+
+A responsible disclose was attempted with South Korea. The full article, dump
+and release schedule was shared ahead of publishing:
+
+* 16th of June 2025, Informed Defense Counterintelligence Command
+* 26th of June 2025, Response by clearbear001 (dcc.mil.kr? vague.)
+* 16th of July 2025, Response by operation-dl (who is this?)
+* 17th of July 2025, Informed kisa.or.kr
+* 17th of July 2025, Informed Ministry of Unification
+* 17th of July 2025, Informed LG Uplus Corp
+* 18th of July 2025, Informed KrCERT
+
+The only response was from operation-dl, an anonymous individual.
+
 --[ Table of Contents
 
 0 - Introduction
