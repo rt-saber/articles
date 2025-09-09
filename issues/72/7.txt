@@ -21,8 +21,19 @@ and release schedule was shared ahead of publishing:
 * 17th of July 2025, Informed Ministry of Unification
 * 17th of July 2025, Informed LG Uplus Corp
 * 18th of July 2025, Informed KrCERT
+* 15th of August 2025, Proton disables whistleblower's email account.
+* 16th of August 2025, Proton disables author's email account.
 
-The only response was from operation-dl, an anonymous individual.
+The only replies were from anonymous individuals (clearbear001/operation-dl).
+We advised them to inform KISA and KrCERT. Communication then ended abruptly.
+
+An appeal was filed with Proton. Proton replied: "your account will cause
+further damage to our service, therefore we will keep the account suspended".
+
+Proton ignored any further request for clarification (Proton was used only
+for email and only to communicate with South Korea).
+
+Proton's legal department was contacted (8 times), but they never responded.
 
 --[ Table of Contents
 
