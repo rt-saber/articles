@@ -576,7 +576,7 @@ deserves a mention.
 Oh my god, that was a good one, the advisory even names Phrack 57! This time
 is the exploit, not the vuln Not my own exploit though. I had a quite
 reliable exploit, if I’m not inventing my memories, but it was
-irc.segfault.org golden times, and I was there with amazing people.
+irc.segfault.net golden times, and I was there with amazing people.
 
 That’s when I met MaXX, one of my favorite Phrack authors, who wrote on Vudu
 malloc tricks, but who clearly understood free() tricks too. We then worked
